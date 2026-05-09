@@ -22,7 +22,7 @@ var Name = "Jane";
 // var 1user = "invalid"; // Error: identifier cannot start with number
 
 // Invalid: contains special character
-// var user@name = "invalid"; // Error: @ not allowed
+// var user@name = "invalid"; // Error: @ not allowed 
 
 // Invalid: reserved word
 // var var = "invalid"; // Error: 'var' is reserved
@@ -41,3 +41,5 @@ var _privateVar = 100;
 
 // Valid: dollar for jQuery
 var $element = document.getElementById("id");
+
+
