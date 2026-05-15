@@ -39,6 +39,7 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `14_var_funtionscope.js` - Function scope with var
 - `15_let_scope.js` - Block scope with let
 - `16_hosting.js` - JavaScript hoisting concepts
+- `17_hosting_funtions.js` - Hoisting behavior inside functions
 
 ## Notes
 
