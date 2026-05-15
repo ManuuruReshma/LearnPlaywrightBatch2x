@@ -12,6 +12,8 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - Identifier and literal examples
 - `chapter_04_Javascript_Concepts/`
   - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
+- `chapter_5_Literal/`
+  - Literal types such as numbers, strings, null, undefined, and template literals
 
 ## Files
 
@@ -40,6 +42,20 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `15_let_scope.js` - Block scope with let
 - `16_hosting.js` - JavaScript hoisting concepts
 - `17_hosting_funtions.js` - Hoisting behavior inside functions
+- `18_let_hosting.js` - let and hoisting examples
+- `19_let_hosting_block.js` - Block scope and let hoisting behavior
+- `20_let_const.js` - let vs const declaration differences
+- `21_jr_QA.js` - JavaScript Q&A examples and notes
+
+### Chapter 5: Literal
+- `22_Literal.js` - Literal examples for number, string, boolean, and object values
+- `23_null_undifined.js` - Difference between null and undefined
+- `24_Null.js` - Null literal explanations
+- `25_Literal_all.js` - Combined literal examples
+- `26_Literal_Number_all.js` - JavaScript number types and numeric literals
+- `27_String.js` - String literal examples and behavior
+- `28_template_Literal.js` - Template literal usage and examples
+- `29_backtick_single_double.js` - Backtick, single quote, and double quote string comparison
 
 ## Notes
 
