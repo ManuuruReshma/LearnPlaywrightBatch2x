@@ -12,7 +12,7 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - Identifier and literal examples
 - `chapter_04_Javascript_Concepts/`
   - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
-- `chapter_5_Literal/`
+- `chapter_05_Literal/`
   - Literal types such as numbers, strings, null, undefined, and template literals
 
 ## Files
@@ -56,6 +56,19 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `27_String.js` - String literal examples and behavior
 - `28_template_Literal.js` - Template literal usage and examples
 - `29_backtick_single_double.js` - Backtick, single quote, and double quote string comparison
+
+### Chapter 6: Operators
+- `30_Operaters.js` - Overview of JavaScript operators
+- `31_Arithmetic.js` - Arithmetic operators (+, -, *, /, %, **)
+- `32_modules.js` - Modulo operator examples
+- `33_expo_op.js` - Exponentiation operator
+- `34_IQ.js` - Interview questions on operators
+- `35_comparision_OP.js` - Comparison operators
+- `36_comparison_op_strick_loose.js` - Strict vs loose comparison (=== vs ==)
+- `37_IQ_loos.js` - Interview questions on loose comparison
+- `38_Confusing_comparision.js` - Tricky comparison scenarios
+- `39_logical_op.js` - Logical operators (&&, ||, !, ??)
+- `40_string_con_op.js` - String concatenation operators (+, +=)
 
 ## Notes
 
