@@ -69,6 +69,13 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `38_Confusing_comparision.js` - Tricky comparison scenarios
 - `39_logical_op.js` - Logical operators (&&, ||, !, ??)
 - `40_string_con_op.js` - String concatenation operators (+, +=)
+- `41_ternary_op.js` - Ternary operator (? :)
+- `42_type_op.js` - Type operators (typeof, instanceof)
+- `43_incre_decre_op.js` - Increment and decrement operators
+- `44_null_op.js` - Nullish coalescing operator (??)
+- `45_post_increment.js` - Post-increment operator (x++)
+- `46_interviewQuestions_increment.js` - Interview questions on increment operators
+- `47_advance_increment_decrement.js` - Advanced increment/decrement scenarios
 
 ## Notes
 
