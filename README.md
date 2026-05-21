@@ -77,6 +77,23 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `46_interviewQuestions_increment.js` - Interview questions on increment operators
 - `47_advance_increment_decrement.js` - Advanced increment/decrement scenarios
 
+### Chapter 7: If-Else Statements
+- `48_IF_ELSE.js` - Basic if-else examples
+- `49_if_elseif_else.js` - If-else-if ladder
+- `50_real_if_else.js` - Real-world if-else usage
+- `51_api_ifelse.js` - API response handling with if-else
+- `52_IQ_if_else.js` - Interview questions on if-else
+- `53_if_else_real.js` - Practical if-else scenarios
+- `54_IQ.js` - More interview questions
+- `55_IE.js` - If-else edge cases
+- `56_IQ_even_odd.js` - Even/odd check interview question
+- `57_IQ_grade_cal.js` - Grade calculator interview question
+- `58_leap_year.js` - Leap year checker
+- `Task.js` - If-else task exercises
+
+### Chapter 8: Switch Statement
+- `59_Switch.js` - Switch statement examples
+
 ## Notes
 
 - Use this repository to learn JavaScript syntax, naming, and workflow best practices.
