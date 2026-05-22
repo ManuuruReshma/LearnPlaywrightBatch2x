@@ -93,6 +93,19 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 
 ### Chapter 8: Switch Statement
 - `59_Switch.js` - Switch statement examples
+- `60_No_break.js` - Switch without break (fall-through behavior)
+- `61_Defult.js` - Default case in switch
+- `62_RealTimeEx.js` - Real-time switch examples
+- `63_Switch_group.js` - Grouping cases in switch
+- `64_IQ.js` - Switch interview questions
+- `65_IQ2.js` - More switch interview questions
+- `66_IQ3.js` - Additional switch interview questions
+- `67_IQ4.js` - Advanced switch interview questions
+
+### Chapter 9: User Input
+- `68_user_input.js` - Basic user input examples
+- `69_NOde_readline.js` - Using Node.js readline module
+- `70_prompt_sync.js` - Using prompt-sync for user input
 
 ## Notes
 
