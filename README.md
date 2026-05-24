@@ -14,6 +14,8 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
 - `chapter_05_Literal/`
   - Literal types such as numbers, strings, null, undefined, and template literals
+- `chapter_10_Loops/`
+  - Loop constructs: for, while, do-while, for...of, for...in, and related exercises
 
 ## Files
 
@@ -106,6 +108,23 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `68_user_input.js` - Basic user input examples
 - `69_NOde_readline.js` - Using Node.js readline module
 - `70_prompt_sync.js` - Using prompt-sync for user input
+
+## Notes
+
+### Chapter 10: Loops
+- `71_for_loop.js` - Basic for loop examples
+- `72_for_loop.js` - For loop variations
+- `73_for_loop2.js` - More for loop examples
+- `74_IQ.js` - Interview questions on loops
+- `75_for_OF_IN_EACH.js` - for...of and for...in loops
+- `76_while.js` - While loop examples
+- `77_do_while.js` - Do-while loop examples
+- `78_Do_while.js` - Additional do-while examples
+- `79_IQ.js` - Loop interview questions
+- `80_IQ.js` - More loop interview questions
+- `81_IQ.js` - Advanced loop interview questions
+- `82_IQ.js` - Additional loop interview questions
+- `Task.js` - Loop task exercises
 
 ## Notes
 
