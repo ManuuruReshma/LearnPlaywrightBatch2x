@@ -14,8 +14,12 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
 - `chapter_05_Literal/`
   - Literal types such as numbers, strings, null, undefined, and template literals
+- `chapter_06_Operater/`
+  - JavaScript operators: arithmetic, comparison, logical, ternary, type, increment/decrement, and nullish coalescing
 - `chapter_10_Loops/`
   - Loop constructs: for, while, do-while, for...of, for...in, and related exercises
+- `chapter_11_Arrays/`
+  - Array operations: creation, access, add/remove, search, iteration, and transformation
 
 ## Files
 
@@ -109,8 +113,6 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `69_NOde_readline.js` - Using Node.js readline module
 - `70_prompt_sync.js` - Using prompt-sync for user input
 
-## Notes
-
 ### Chapter 10: Loops
 - `71_for_loop.js` - Basic for loop examples
 - `72_for_loop.js` - For loop variations
@@ -125,6 +127,17 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `81_IQ.js` - Advanced loop interview questions
 - `82_IQ.js` - Additional loop interview questions
 - `Task.js` - Loop task exercises
+
+### Chapter 11: Arrays
+- `83_Arrays.js` - Array creation and basics
+- `84_Arrays.js` - More array basics
+- `85_Access_arrays.js` - Accessing array elements
+- `86_add_remove_array.js` - Adding and removing elements
+- `87_Adding_Remove2.js` - Advanced add/remove operations
+- `88_Real_ex.js` - Real-world array examples
+- `89_searching.js` - Searching in arrays
+- `90_Iterate.js` - Iterating over arrays
+- `91_Transform_Arrays.js` - Transforming arrays
 
 ## Notes
 
