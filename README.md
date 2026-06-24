@@ -20,6 +20,16 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - Loop constructs: for, while, do-while, for...of, for...in, and related exercises
 - `chapter_11_Arrays/`
   - Array operations: creation, access, add/remove, search, iteration, and transformation
+- `chapter_12_funtions/`
+  - Functions: types, expressions, arrow functions, IIFE, default/rest params, scope, closures, higher-order, and pure functions
+- `chapter_13_Strings/`
+  - String operations: properties, search, substring, transformation, and conversion
+- `chapter_14_Objects/`
+  - Objects: creation, primitive vs reference, destructuring, spread, get/set methods, and real-world examples
+- `chapter_15_2D_Array/`
+  - 2D arrays: creation, iteration, functions, patterns, and CSV data handling
+- `chapter_16_callback/`
+  - Callbacks: synchronous, asynchronous, callback hell, parameters, and return patterns
 
 ## Files
 
@@ -138,6 +148,80 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `89_searching.js` - Searching in arrays
 - `90_Iterate.js` - Iterating over arrays
 - `91_Transform_Arrays.js` - Transforming arrays
+- `92_Array.js` - Array sorting (string and numeric)
+- `93_Array_slicing.js` - Array slicing with slice()
+- `94_concate_array.js` - Array concatenation with concat() and spread operator
+- `95_aray_check.js` - Array checking with isArray(), every(), and some()
+
+### Chapter 12: Functions
+- `96_funtions.js` - Function basics
+- `97_Type_Fn_BAsic_funtions.js` - Basic function types
+- `98_type2_Fn_With_Param_No_Return.js` - Functions with parameters, no return
+- `99_type3_fn_without_Param_return_type.js` - Functions without parameters, with return
+- `100_type4_Fn_With_Param_With_Return.js` - Functions with parameters and return
+- `101_Template_literal.js` - Template literals in functions
+- `102_fn_Expression.js` - Function expressions
+- `103_Arrow_Fn.js` - Arrow functions
+- `104_Arrow_Fn_real.js` - Real-world arrow function examples
+- `105_IIFE.js` - Immediately Invoked Function Expressions
+- `106_Default_param_fn.js` - Default parameters in functions
+- `107_IQ.js` - Interview questions on functions
+- `108_Rest_Param_Fn.js` - Rest parameters in functions
+- `109_IQ.js` - Interview questions on rest parameters
+- `110_Soead_IQ.js` - Spread operator interview questions
+- `111_Scope_fn.js` - Function scope
+- `112_IQ.js` - Scope interview questions
+- `113_Closure.js` - Closure basics
+- `114_Closure.js` - More closure examples
+- `115_API_REAL_Closure.js` - Real-world API closure examples
+- `116_Higher_Order_fn.js` - Higher-order functions
+- `117_Pure_fn.js` - Pure functions
+
+### Chapter 13: Strings
+- `118_Strings.js` - String basics
+- `119_String_Properties.js` - String properties
+- `120_Search_check_str.js` - Searching and checking strings
+- `121_Substring.js` - Substring operations
+- `122_Transform_Str.js` - String transformation
+- `123_String_conver.js` - String conversion
+- `IQ.js` - String interview questions
+
+### Chapter 14: Objects
+- `124_Objects.js` - Object basics
+- `125_Objects2.js` - Object basics continued
+- `126_Objects_creation.js` - Object creation patterns
+- `127_Object_REAL.js` - Real-world object examples
+- `128_Primitive_ref.js` - Primitive vs reference types
+- `129_OB_Examples.js` - Object examples
+- `130_IQ.js` - Object interview questions
+- `131_Object_Fn.js` - Object functions
+- `132_Obj_Decon.js` - Object destructuring
+- `133_Spead.js` - Spread operator with objects
+- `134_Object_GET_SET_Method.js` - Getters and setters
+- `135_IQ.js` - More object interview questions
+- `136_Obj_REAL.js` - Real-world object examples
+- `137_Let_const_obj.js` - let and const with objects
+
+### Chapter 15: 2D Array
+- `138_2D_array.js` - 2D array basics
+- `139_2d_IQ.js` - 2D array interview questions
+- `140_REAL.js` - Real-world 2D array examples
+- `141_2d_Array_Fn.js` - 2D array functions
+- `142_IQ_right_pattern.js` - Pattern-based interview questions
+- `testdata.csv` - Sample CSV test data
+
+### Chapter 16: Callback
+- `143_CallBack.js` - Callback basics
+- `144_CB.js` - Callback examples
+- `145_CB_fn.js` - Callback functions
+- `146_PW_CB.js` - Playwright callback examples
+- `147_JS_CB.js` - JavaScript callback examples
+- `148_Sync_CB.js` - Synchronous callbacks
+- `149_Async_CB.js` - Asynchronous callbacks
+- `150_CB_Hell.js` - Callback hell
+- `151_CB_HELL_20_Steps.js` - 20-step callback hell example
+- `152_CB_Parameter.js` - Callback parameters
+- `153_CB_Return.js` - Callback return values
 
 ## Notes
 

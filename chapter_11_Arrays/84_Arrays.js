@@ -7,7 +7,7 @@ scores[3] = 1;
 
 console.log(scores);
 
-let scores2 = new array[1, 2, 3];
+let scores2 = new Array(1, 2, 3);
 console.log(scores2);
 
 let numbers = new Array(100, 200, 300, 400);
