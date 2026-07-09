@@ -30,6 +30,28 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - 2D arrays: creation, iteration, functions, patterns, and CSV data handling
 - `chapter_16_callback/`
   - Callbacks: synchronous, asynchronous, callback hell, parameters, and return patterns
+- `chapter_17_Promise/`
+  - JavaScript Promises: creation, consumption, Promise.all, finally, and interview questions
+- `chapter_18_Asyc_Await/`
+  - Async/await syntax, sequential vs parallel execution, exercises, and interview questions
+- `chapter_19_Playwright_basics/`
+  - Playwright test project setup with configuration, example specs, and codegen-generated tests
+- `chapter_20_EXPORT_IMPORT/`
+  - ES6 module system: export/import, named vs default exports, and modular code organization
+- `chapter_21_Class_Object/`
+  - JavaScript OOP: classes, objects, private/public fields, static members, and real-world examples
+- `chapter_22_ENCAPSULATION/`
+  - OOP encapsulation: private fields, getters/setters, and real-world examples (Car, Bank)
+- `chapter_23_Inheritance/`
+  - OOP inheritance: single, multilevel, hierarchical, multiple (mixin), and Page Object Model pattern
+- `chapter_24_Polymorphism/`
+  - OOP polymorphism through method overriding
+- `chapter_25_OOP_InterviewQuestion/`
+  - Practice exercises and interview questions on all OOP concepts
+- `chapter_26_TypeScript/`
+  - TypeScript basics: types, annotations, compilation, and interview questions
+- `chapter_27_TpeScript_Interface/`
+  - TypeScript interfaces: contracts, optional/required properties, and readonly modifier
 
 ## Files
 
@@ -222,6 +244,95 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `151_CB_HELL_20_Steps.js` - 20-step callback hell example
 - `152_CB_Parameter.js` - Callback parameters
 - `153_CB_Return.js` - Callback return values
+
+### Chapter 17: Promise
+- `154_Promise.js` - Promise basics and syntax
+- `155_Promise_REAL_API.js` - Using promises with real API calls
+- `156_Promise_Real_API_Part2.js` - Continuation of real API promise examples
+- `157_Finally.js` - The .finally() method on promises
+- `158_Cal_Py_Problem.js` - Calculator/payment promise problem
+- `159_Promise_ALL.js` - Promise.all() for concurrent promises
+- `160_Promise_IQ.js` - Promise interview questions
+
+### Chapter 18: Async Await
+- `161_Async.js` - Async/await basics
+- `162_Async_P2.js` - Async/await part 2
+- `163_PyODom.js` - Async patterns
+- `164_Async_Ex.js` - Async/await exercises
+- `165_AA_Sequencal.js` - Sequential execution with async/await
+- `166_AA_Parrel.js` - Parallel execution with async/await
+- `167_IQ.js` - Async/await interview questions
+
+### Chapter 19: Playwright Basics
+- `package.json` - Project manifest with Playwright dependencies
+- `playwright.config.ts` - Playwright test runner configuration
+- `tests/example.spec.ts` - Sample Playwright test spec
+- `tests/codegen_tta-cart.space.ts` - Codegen-generated test script
+- `playwright-report/index.html` - Generated HTML test report
+- `sdetlive.pdf` - Reference PDF document
+
+### Chapter 20: Export/Import
+- `168_EXPORT_IMPORT.js` - ES6 export/import basics
+- `169_Utils.js` - Utility functions (export)
+- `170_Logger.js` - Logger module (export)
+- `utils.js` - General utility exports
+- `logger.js` - Logger implementation
+- `testutils.js` - Test utility helpers
+- `explaindefault.md` - Explanation of default exports
+
+### Chapter 21: Class/Object
+- `171_Class_Object.js` - Class/object basics
+- `172_class_object2.js` - Class/object continued
+- `173_Car.js` - Car class example
+- `174_REAL_Browser.js` - Real-world browser class example
+- `175_IQ.js` - Class/object interview questions
+- `176_Private_Public.js` - Private and public class fields
+- `177_Static.js` - Static methods and properties
+- `178_Statis.js` - Static examples (continued)
+- `question.js` - Class-related practice question
+
+### Chapter 22: Encapsulation
+- `179_ECAP.js` - Encapsulation basics
+- `180_REAK_EXAMPLE.js` - Real-world encapsulation example
+- `181_ECAP_Car.js` - Encapsulation with a Car class
+- `182_ECap_Bank.js` - Encapsulation with a Bank account example
+
+### Chapter 23: Inheritance
+- `183_Single_Inheritance.js` - Single inheritance basics
+- `184_SI_Example.js` - Single inheritance example
+- `185_Single_inheritance_Con.js` - Single inheritance with constructors
+- `186_IQ.js` - Inheritance interview questions
+- `187_IQ2.js` - More inheritance interview questions
+- `188_Real_PageObject_Model.js` - Real-world Page Object Model using inheritance
+- `189_Multiple_inheritance.js` - Multiple inheritance (mixin) patterns
+- `190_Multiple_Level_inheritance.js` - Multilevel inheritance
+- `191_Hierarchial_inheritance.js` - Hierarchical inheritance
+
+### Chapter 24: Polymorphism
+- `192_Method_Overriding.js` - Method overriding example
+
+### Chapter 25: OOP Interview Questions
+- `EX1.js` - OOP exercise 1
+- `EX2.js` - OOP exercise 2
+- `EX3.js` - OOP exercise 3
+- `EX4.js` - OOP exercise 4
+- `EX5.js` - OOP exercise 5
+
+### Chapter 26: TypeScript
+- `193_TS.js` - TypeScript intro (compiled JS)
+- `194_TS_Helloworld.ts` - TypeScript Hello World
+- `195_TS_Part.ts` - TypeScript part 1
+- `196_TS_Part2.ts` - TypeScript part 2
+- `197_TC_Part2.ts` - TypeScript part 2 continued
+- `198_Part3.ts` - TypeScript part 3
+- `199_IQ.ts` - TypeScript interview questions
+- `200_IQ.ts` - More TypeScript interview questions
+
+### Chapter 27: TypeScript Interface
+- `201_IF.ts` - Interface basics
+- `202_IF_Paer2.ts` - Interface part 2
+- `203_IF_READONLY.ts` - Readonly modifier in interfaces
+- `204_IF_READOnly.ts` - Readonly modifier (continued)
 
 ## Notes
 
