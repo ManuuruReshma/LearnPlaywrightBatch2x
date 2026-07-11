@@ -52,6 +52,16 @@ A simple JavaScript learning repository for Playwright batch training. This repo
   - TypeScript basics: types, annotations, compilation, and interview questions
 - `chapter_27_TpeScript_Interface/`
   - TypeScript interfaces: contracts, optional/required properties, and readonly modifier
+- `chapter_28_ENUM/`
+  - TypeScript enums: basic enums, string enums, numeric enums, and real-world API usage
+- `chapter_29_Generic/`
+  - TypeScript generics: generic functions, generic classes, and API response typing
+- `chapter_30_PRIVATE_PUBLIC_PROTECTED/`
+  - Access modifiers: private, public, protected keywords, Page Object Model pattern, readonly, and abstract classes
+- `chapter_31_Type_Overide_Decorators/`
+  - TypeScript type aliases, 'as' keyword, method overriding, interview questions, and decorators (basic, multiple, and advanced)
+- `chapter_32_Playwright_Fundamentals/`
+  - Playwright test project setup with configuration and example test specs
 
 ## Files
 
@@ -333,6 +343,43 @@ A simple JavaScript learning repository for Playwright batch training. This repo
 - `202_IF_Paer2.ts` - Interface part 2
 - `203_IF_READONLY.ts` - Readonly modifier in interfaces
 - `204_IF_READOnly.ts` - Readonly modifier (continued)
+- `205_Interface.ts` - Interface usage examples
+- `206_Hooks.ts` - Interface hooks in Playwright
+- `207_Bug_Report.ts` - Bug report interface example
+- `208_TestConfig.ts` - Test configuration interface
+- `209_REAL_EX.ts` - Real-world interface examples
+- `210_Class_Interface.ts` - Class implementing interface
+
+### Chapter 28: Enum
+- `211_ENUM.ts` - Enum basics
+- `212_Enum_Fn.ts` - Enum with functions
+- `213_ENUM.ts` - Enum advanced examples
+- `214_API.ts` - Enum in API usage
+
+### Chapter 29: Generic
+- `215_Generic.ts` - Generic function basics
+- `216_Generic_Class.ts` - Generic class examples
+- `217_Genric_API_Response.ts` - Generic API response typing
+
+### Chapter 30: Private, Public, Protected
+- `218_PPP.ts` - Access modifiers (private, public, protected)
+- `219_PageObjectModel.ts` - Page Object Model with access modifiers
+- `220_ReadOnky.ts` - Readonly modifier examples
+- `221_Abstract_Class.ts` - Abstract class concepts
+
+### Chapter 31: Type Override & Decorators
+- `222_Type_As.ts` - Type assertion with 'as' keyword
+- `223_Tpe_Alias_as.ts` - Type aliases and 'as' usage
+- `224_Override.ts` - Method overriding examples
+- `225_IQ.ts` - Interview questions on type overrides
+- `226_Docorator.ts` - Basic decorator example
+- `227_Decorator2.ts` - Advanced decorator patterns
+- `228_Multiple_Decor.ts` - Multiple decorators usage
+
+### Chapter 32: Playwright Fundamentals
+- `package.json` - Project manifest with Playwright dependencies
+- `playwright.config.ts` - Playwright test runner configuration
+- `tests/example.spec.ts` - Sample Playwright test spec
 
 ## Notes
 
